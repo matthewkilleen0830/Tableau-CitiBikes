@@ -63,4 +63,4 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 * Create a Tableau story that brings together the visualizations, requested maps, and dashboards.
 * This is what will be presented to the officials, so be sure to make it professional, logical, and visually appealing.
-* This Tableau story can be found here:  [Citi Bikes Tableau Public Workbook](https://public.tableau.com/app/profile/matt.killeen/viz/CitiBikes_16215414528460/CitiBikesStory)
+* This Tableau story can be found here:  [Citi Bikes Tableau Public Workbook](https://public.tableau.com/app/profile/matt.killeen/viz/CitiBikes_16215414528460/CitiBikesStory).
